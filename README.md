@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Mobile and Web developer from Venezuela </h3>
 
 - 🔭 I’m currently working at [myservy's mobile apps](www.myservy.com)
-
+- ⚡ Fun fact **I'm kinda an artist so i love programing on client side**
 - 📫 How to reach me **angelanton01@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>

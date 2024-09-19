@@ -24,4 +24,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel-antn&show_icons=true&theme=nightowl)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardo170701&show_icons=true&locale=en&layout=compact" alt="ricardo170701" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angel-antn&show_icons=true&locale=en&layout=compact" alt="angel-antn" /></p>
